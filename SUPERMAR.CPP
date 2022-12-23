@@ -276,6 +276,6 @@ void intro()
 clrscr();
 cout<<"\t\t\tSUPERMARKET BILLING PROJECT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
 cout<<"\t\t\t\t\t\tPROJECT MADE BY-"<<endl;
-cout<<"\t\t\t\t\t\tHARSH VERMA AND NISCHAY VIJ";
+cout<<"\t\t\t\t\t\tHARSH VERMA";
 getch();
 }
